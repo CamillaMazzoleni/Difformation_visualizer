@@ -1,0 +1,6 @@
+Flask==2.0.1
+numpy==1.21.0
+mayavi==4.7.4
+matplotlib==3.4.2
+Pillow==8.2.0
+
